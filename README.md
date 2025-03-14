@@ -1,5 +1,3 @@
-# CodeAlpha_PacketSniffer
-
 # Packet Sniffer in Python
 
 ## Overview
